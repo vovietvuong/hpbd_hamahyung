@@ -81,7 +81,7 @@ const CONFIG = {
         "Mình muốn làm gì đó <strong>đặc biệt hơn</strong>.",
         "Bởi vì...",
         "Cậu không giống bất kỳ ai.",
-        "Cậu là người đặc biệt trong mắt mình.",
+        "Trong lòng mình, cậu luôn có một vị trí rất riêng.",
       ],
       bigLetters: "SPECIAL",
     },
